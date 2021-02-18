@@ -25,17 +25,17 @@ https://nathanjamis.github.io/CureForBoredom/
 MIT
 
 # Author Contact Info
-Jesse Willig\
+* Jesse Willig
   * (https://github.com/jessewillig)
-Ashley Whaley\
+* Ashley Whaley
   * (https://github.com/AshleyWhaley)
-Nathan Walsh\
+* Nathan Walsh
   * (https://github.com/NathanJamis)
-Jasmine Sanchez\
+* Jasmine Sanchez
   * (https://github.com/jasminekay505)
-Molli Vallario\
+* Molli Vallario
   * (https://github.com/molliv)
-Hayden Vennes\ 
+* Hayden Vennes
   * (https://github.com/Hayden-coder)
-Zack Johnston\
+* Zack Johnston
   * (https://github.com/zackjjohnston)
