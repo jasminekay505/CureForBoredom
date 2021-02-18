@@ -26,16 +26,16 @@ MIT
 
 # Author Contact Info
 Jesse Willig\
-  * (*https://github.com/jessewillig*)\
+  * (https://github.com/jessewillig)
 Ashley Whaley\
-  * (*https://github.com/AshleyWhaley*)\
+  * (https://github.com/AshleyWhaley)
 Nathan Walsh\
-  * (*https://github.com/NathanJamis*)\
+  * (https://github.com/NathanJamis)
 Jasmine Sanchez\
-  * (*https://github.com/jasminekay505*)\
+  * (https://github.com/jasminekay505)
 Molli Vallario\
-  * (*https://github.com/molliv*)\
+  * (https://github.com/molliv)
 Hayden Vennes\ 
-  * (*https://github.com/Hayden-coder*)\
+  * (https://github.com/Hayden-coder)
 Zack Johnston\
-  * (*https://github.com/zackjjohnston*)
+  * (https://github.com/zackjjohnston)
