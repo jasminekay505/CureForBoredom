@@ -3,7 +3,7 @@
 This application allows the user to be distracted from the current global pandemic with personalized entertainment. The user can choose to escape by clicking for jokes :laughing:, Kanye West quotes :microphone:, Google images :earth_americas:, or the NASA image of the day :milky_way:. 
 
 # Link to Application
-https://nathanjamis.github.io/CureForBoredom/
+https://jasminekay505.github.io/CureForBoredom/
 
 # Technologies Used
 
